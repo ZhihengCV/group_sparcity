@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Pycharm settings
+/.idea
+
+# data
+/cifar10*
